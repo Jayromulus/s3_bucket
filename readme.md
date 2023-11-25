@@ -1,7 +1,7 @@
 ### .env
 |Name|Description|
 |-|-|
-|HOST|localhost OR 127.0.0.1 (this is used for deployment)|
+|HOST|`localhost` OR `127.0.0.1` (this is used for deployment)|
 |PORT|the port this server will be running on|
 |REGION|the region your bucket belongs to, as found in the amazon console|
 |BUCKET|the name of the bucket you have created|
